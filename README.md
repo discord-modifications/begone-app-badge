@@ -12,4 +12,4 @@ A powercord plugin that gets rid of the app's notification badge & the tray icon
 
 # Support
 
--  eternal#1000
+-  eternal#0404
