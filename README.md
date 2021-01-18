@@ -10,6 +10,3 @@ A powercord plugin that gets rid of the app's notification badge & the tray icon
 
 -  `git clone https://github.com/slow/begone-app-badge`
 
-# Support
-
--  eternal#1000
